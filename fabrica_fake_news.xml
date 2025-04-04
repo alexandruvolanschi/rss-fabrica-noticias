@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+    <title>Fábrica News - Notícias Suculentas</title>
+    <link>http://example.com/</link>
+    <description>Notícias sérias de uma fábrica não tão séria assim</description>
+    
+    <item>
+        <title>Última hora</title>
+        <description>Hambúrguer escapou da linha de produção e foi visto correndo pelo armazém.</description>
+        <pubDate>Fri, 04 Apr 2025 07:40:27 +0000</pubDate>
+        <guid>fakenews-2308</guid>
+    </item>
+    
+    <item>
+        <title>Manutenção em alerta</title>
+        <description>Máquina de fatiar começou a fatiar até os turnos. Terceiro turno sumiu.</description>
+        <pubDate>Fri, 04 Apr 2025 07:35:27 +0000</pubDate>
+        <guid>fakenews-4913</guid>
+    </item>
+    
+    <item>
+        <title>Qualidade investiga</title>
+        <description>Carne picada foi encontrada rindo. Suspeita-se de contaminação por bom humor.</description>
+        <pubDate>Fri, 04 Apr 2025 07:30:27 +0000</pubDate>
+        <guid>fakenews-8186</guid>
+    </item>
+    
+    <item>
+        <title>Desmancha criativo</title>
+        <description>Equipa transforma peça de carne em arte moderna. Clientes confusos, mas interessados.</description>
+        <pubDate>Fri, 04 Apr 2025 07:25:27 +0000</pubDate>
+        <guid>fakenews-8088</guid>
+    </item>
+    
+    <item>
+        <title>Embalo total</title>
+        <description>Funcionário embala 743 cuvetes sem piscar. Agora está em análise como possível ciborgue.</description>
+        <pubDate>Fri, 04 Apr 2025 07:20:27 +0000</pubDate>
+        <guid>fakenews-5359</guid>
+    </item>
+    
+    <item>
+        <title>Congelado demais</title>
+        <description>Armazém congelado agora abriga pinguins. Equipa de manutenção considera abrir zoológico.</description>
+        <pubDate>Fri, 04 Apr 2025 07:15:27 +0000</pubDate>
+        <guid>fakenews-4527</guid>
+    </item>
+    
+    <item>
+        <title>Rolos de carne revoltados</title>
+        <description>Formaram sindicato e exigem serem chamados de 'Cilindros Proteicos'.</description>
+        <pubDate>Fri, 04 Apr 2025 07:10:27 +0000</pubDate>
+        <guid>fakenews-4118</guid>
+    </item>
+    
+    <item>
+        <title>Reunião urgente</title>
+        <description>Sala de qualidade convocada após almôndegas se organizarem em pirâmide misteriosa.</description>
+        <pubDate>Fri, 04 Apr 2025 07:05:27 +0000</pubDate>
+        <guid>fakenews-6696</guid>
+    </item>
+    
+    <item>
+        <title>Quebra de protocolo</title>
+        <description>Máquina a vácuo sugou crachá de supervisor. Investigações em curso.</description>
+        <pubDate>Fri, 04 Apr 2025 07:00:27 +0000</pubDate>
+        <guid>fakenews-4306</guid>
+    </item>
+    
+    <item>
+        <title>Nova técnica</title>
+        <description>Funcionário usa espada Jedi imaginária para separar bifes. Produtividade aumenta 300%.</description>
+        <pubDate>Fri, 04 Apr 2025 06:55:27 +0000</pubDate>
+        <guid>fakenews-6658</guid>
+    </item>
+    
+    <item>
+        <title>Alerta cárnico</title>
+        <description>Carne maturada começa a filosofar sobre o sentido da vida. Equipa de RH envolvida.</description>
+        <pubDate>Fri, 04 Apr 2025 06:50:27 +0000</pubDate>
+        <guid>fakenews-9036</guid>
+    </item>
+    
+    <item>
+        <title>RH confuso</title>
+        <description>Funcionário pediu férias para a almôndega. Pedido será avaliado.</description>
+        <pubDate>Fri, 04 Apr 2025 06:45:27 +0000</pubDate>
+        <guid>fakenews-8931</guid>
+    </item>
+    
+    <item>
+        <title>Segurança alimentar</title>
+        <description>Micro-organismos se renderam antes mesmo da auditoria. Vitória total do HACCP.</description>
+        <pubDate>Fri, 04 Apr 2025 06:40:27 +0000</pubDate>
+        <guid>fakenews-9426</guid>
+    </item>
+    
+    <item>
+        <title>Turno da madrugada</title>
+        <description>Fatiadora passou sozinha 6 horas a cortar sombra. Psicólogo em rota.</description>
+        <pubDate>Fri, 04 Apr 2025 06:35:27 +0000</pubDate>
+        <guid>fakenews-6481</guid>
+    </item>
+    
+    <item>
+        <title>TI envolvida</title>
+        <description>Sensor de temperatura acredita ser termómetro emocional. Só aquece quando está triste.</description>
+        <pubDate>Fri, 04 Apr 2025 06:30:27 +0000</pubDate>
+        <guid>fakenews-9444</guid>
+    </item>
+    
+    <item>
+        <title>Crise no vácuo</title>
+        <description>Embaladora sente-se pressionada. Diz que precisa de espaço (literalmente).</description>
+        <pubDate>Fri, 04 Apr 2025 06:25:27 +0000</pubDate>
+        <guid>fakenews-8590</guid>
+    </item>
+    
+    <item>
+        <title>Nova embalagem</title>
+        <description>Produto testado em cuvete com Wi-Fi. Clientes ainda tentam fazer chamadas pelo bife.</description>
+        <pubDate>Fri, 04 Apr 2025 06:20:27 +0000</pubDate>
+        <guid>fakenews-9858</guid>
+    </item>
+    
+</channel>
+</rss>
