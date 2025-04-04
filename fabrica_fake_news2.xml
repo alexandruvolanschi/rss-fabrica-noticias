@@ -4,6 +4,8 @@
     <title>Fábrica News - Notícias Suculentas</title>
     <link>http://example.com/</link>
     <description>Notícias sérias de uma fábrica não tão séria assim</description>
+
+    <atom:link href="https://raw.githubusercontent.com/alexandruvolanschi/rss-fabrica-noticias/refs/heads/main/fabrica_fake_news2.xml" rel="self" />
     
     <item>
         <title>Última hora</title>
