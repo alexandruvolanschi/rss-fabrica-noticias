@@ -6,7 +6,7 @@
     <description>Notícias sérias de uma fábrica não tão séria assim</description>
     
     <!-- Link de Auto Referência -->
-    <atom:link href="https://raw.githubusercontent.com/alexandruvolanschi/rss-fabrica-noticias/refs/heads/main/fabrica_fake_news2.xml" rel="self" />
+    <atom:link href="https://raw.githubusercontent.com/alexandruvolanschi/rss-fabrica-noticias/refs/heads/main/fabrica_fake_news4.xml" rel="self" />
     
     <item>
         <title>Última hora</title>
