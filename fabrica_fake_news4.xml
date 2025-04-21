@@ -10,7 +10,7 @@
     
     <item>
         <title>Última hora</title>
-        <description>Hambúrguer escapou da linha de produção e foi visto correndo pelo armazém.</description>
+        <description>Hambúrguer escapou da linha de produção e foi visto pela última vez na grelha da Clara.</description>
         <pubDate>Fri, 04 Apr 2025 07:40:27 +0000</pubDate>
         <guid isPermaLink="false">fakenews-2308</guid>
     </item>
@@ -30,7 +30,7 @@
     </item>
     
     <item>
-        <title>Embalo total</title>
+        <title>Sala grande</title>
         <description>Funcionário embala 743 cuvetes sem piscar. Agora está em análise como possível robo do Elon Musk.</description>
         <pubDate>Fri, 04 Apr 2025 07:20:27 +0000</pubDate>
         <guid isPermaLink="false">fakenews-5359</guid>
@@ -44,29 +44,22 @@
     </item>
     
     <item>
-        <title>Rolos de carne revoltados</title>
+        <title>Rolos da Mercadona revoltados</title>
         <description>Formaram sindicato e exigem serem chamados de 'Cilindros Proteicos'.</description>
         <pubDate>Fri, 04 Apr 2025 07:10:27 +0000</pubDate>
         <guid isPermaLink="false">fakenews-4118</guid>
     </item>
-    
-    <item>
-        <title>Reunião urgente</title>
-        <description>Departamento de qualidade convocado após almôndegas se organizarem em pirâmide misteriosa.</description>
-        <pubDate>Fri, 04 Apr 2025 07:05:27 +0000</pubDate>
-        <guid isPermaLink="false">fakenews-6696</guid>
-    </item>
-    
+ 
     <item>
         <title>Nova técnica</title>
-        <description>Funcionário usa espada Jedi imaginária para separar bifes. Produtividade aumenta 300%.</description>
+        <description>Os cortadores dos fatiados usam espada Jedi imaginária para separar bifes. Produtividade aumenta 300%.</description>
         <pubDate>Fri, 04 Apr 2025 06:55:27 +0000</pubDate>
         <guid isPermaLink="false">fakenews-6658</guid>
     </item>
     
     <item>
-        <title>Alerta cárnico</title>
-        <description>Carne maturada começa a filosofar sobre o sentido da vida.</description>
+        <title>Cultura</title>
+        <description>Uma peça de carne maturada e Dr. Humberto começam a filosofar sobre o sentido da vida.</description>
         <pubDate>Fri, 04 Apr 2025 06:50:27 +0000</pubDate>
         <guid isPermaLink="false">fakenews-9036</guid>
     </item>
@@ -80,7 +73,7 @@
     
     <item>
         <title>Turno das 7</title>
-        <description>Fatiadora passou sozinha 6 horas a cortar sombra. O turno das 7 não tinha mais nada para fazer</description>
+        <description>Fatiadora passou sozinha 6 horas a cortar sombra. O turno das 7 estava parado, conversando porque não tinha mais nada para fazer</description>
         <pubDate>Fri, 04 Apr 2025 06:35:27 +0000</pubDate>
         <guid isPermaLink="false">fakenews-6481</guid>
     </item>
@@ -143,7 +136,7 @@
 	
     <item>
 	<title>Guerra nuclear</title>
-	<description>Salário cai na conta e evapora em 0.3 segundos. Um grande nível de vítimas e danos extensos.</description>
+	<description>Salário cai na conta e evapora em 0.3 segundos. Uma grande quantidade de vítimas e danos extensos.</description>
         <pubDate>Fri, 04 Apr 2025 06:20:27 +0000</pubDate>
         <guid isPermaLink="false">fakenews-9864</guid>
     </item>
