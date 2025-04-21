@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-    <title>Fábrica News - Notícias Suculentas</title>
-    <link>http://example.com/</link>
+    <title>Pnews - Notícias Suculentas</title>
+    <link>http://pcarnes.pt/</link>
     <description>Notícias sérias de uma fábrica não tão séria assim</description>
     
     <!-- Link de Auto Referência -->
